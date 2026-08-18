@@ -1,13 +1,5 @@
 # CDP-to-MCP Gateway
 
-![GitHub License](https://img.shields.io/github/license/sohan-a11y/cdp-mcp-gateway?style=flat-square)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/sohan-a11y/cdp-mcp-gateway?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/sohan-a11y/cdp-mcp-gateway?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/sohan-a11y/cdp-mcp-gateway?style=flat-square)
-
-[![Skills](https://skillicons.dev/icons?i=python,chrome,fastapi)](https://skillicons.dev)
-
-
 Local Python daemon connecting your active Google Chrome browser (via Chrome DevTools Protocol) to a Model Context Protocol (MCP) server so local AI agents can control your browser seamlessly.
 
 ## Quickstart
